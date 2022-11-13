@@ -13,3 +13,4 @@
 |```D3```|[1208. [S/W 문제해결 기본] 1일차 - Flatten](https://github.com/1eejisoo/SWEA/tree/main/D3/1208.%20%5BS:W%20%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%20%EA%B8%B0%EB%B3%B8%5D%201%EC%9D%BC%EC%B0%A8%20-%20Flatten)|
 |```D3```|[1215. [S/W 문제해결 기본] 3일차 - 회문1](https://github.com/1eejisoo/SWEA/tree/main/D3/1215.%20%5BS:W%20%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%20%EA%B8%B0%EB%B3%B8%5D%203%EC%9D%BC%EC%B0%A8%20-%20%ED%9A%8C%EB%AC%B81)|
 |```D3```|[1209. [S/W 문제해결 기본] 2일차 - Sum](https://github.com/1eejisoo/SWEA/tree/main/D3/1209.%20%5BS:W%20%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%20%EA%B8%B0%EB%B3%B8%5D%202%EC%9D%BC%EC%B0%A8%20-%20Sum)|
+|```D3```|[1225. [S/W 문제해결 기본] 7일차 - 암호생성기](https://github.com/1eejisoo/SWEA/tree/main/D3/1225.%20%5BS:W%20%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%20%EA%B8%B0%EB%B3%B8%5D%207%EC%9D%BC%EC%B0%A8%20-%20%EC%95%94%ED%98%B8%EC%83%9D%EC%84%B1%EA%B8%B0)|
